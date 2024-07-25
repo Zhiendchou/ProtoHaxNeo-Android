@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">ProtoHaxNeo</string>
+    <string name="app_name" translatable="false">ProtoHax Neo</string>
 
     <string name="mitm_connected">Connected to MITM proxy</string>
     <string name="mitm_connected_launch">Launch App</string>
